@@ -1,5 +1,3 @@
-**Notes MSc (BEEM101) comments**
-
 #Specific topics, focus, approach
 
 - Highlight *relevance* of theory
@@ -26,10 +24,14 @@
 - Developing research skills
 
 ##Articles of interest
-
 - None were mentioned in particular, but students expressed an interest in
     - applied articles relevant to business and policy
     - a focus on highlighting key results, insights, and methods *within* these articles
+
+*Please add suggested articles and topic here*
+
+- e.g., The Deadweight Loss of Christmas: \cite{waldfogel1993deadweight}
+    - Responses: \cite{Solnick_2000},\cite{Ruffle_2000},\cite{reinstein2014economics},\cite{list1998deadweight}
 
 #Module structure
 
@@ -52,7 +54,6 @@
 #Points of confusion
 - Some students were confused by the Cobb-Douglas example, and the solved problem.
     - --> This is covered in later problem sets, and I will go through an example in a later tutorial
-
 
 #Comments about the course in general
 
