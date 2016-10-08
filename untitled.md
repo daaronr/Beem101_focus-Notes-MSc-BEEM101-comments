@@ -35,7 +35,7 @@
 
 ##Textbook
 ##Problem sets
-##Enrichment material (e.g., Autor notes)
+##Enrichment material (e.g., autor notes)
 
 - Students found this interesting but did not want to be examined on it.
 - Most (?) would prefer enrichment in terms of applied work rather than mathematical rigour (unless it adds insight)
