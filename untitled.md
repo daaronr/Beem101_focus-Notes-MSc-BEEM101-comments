@@ -1,4 +1,4 @@
-#Notes MSc (BEEM101) comments
+**Notes MSc (BEEM101) comments**
 
 #Specific topics, focus, approach
 
@@ -51,7 +51,7 @@
 
 #Points of confusion
 - Some students were confused by the Cobb-Douglas example, and the solved problem.
-    - $\rightarrow$  This is covered in later problem sets, and I will go through an example in a later tutorial
+    - --> This is covered in later problem sets, and I will go through an example in a later tutorial
 
 
 #Comments about the course in general
