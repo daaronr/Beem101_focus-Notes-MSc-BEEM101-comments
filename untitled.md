@@ -165,5 +165,7 @@
 
 Public Economics: relevant podcasts, etc. [Link](https://www.authorea.com/users/103626/articles/131934/_show_article?access_token=pRilxrS91QCyzi43yz1FWA) 
 
+[ripped from the headlines - shepherd uni](http://libguides.shepherd.edu/c.php?g=62855&p=403388)
+
 
 
