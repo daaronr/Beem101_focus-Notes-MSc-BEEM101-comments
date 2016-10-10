@@ -71,7 +71,7 @@
     - \cite{Friedman}  *Classic but perhaps outdated*
     - Credible worlds: the status of theoretical models in economics \cite{Sugden}
     - "Observing violations of transitivity by experimental methods." Observing violations of transitivity by experimental methods" \cite{Loomes_1991}
-    - Choi, Syngjoo, et al. "Who is (more) rational?." The American Economic Review 104.6 (2014): 1518-1550.
+    - Choi, Syngjoo, et al. "Who is (more) rational?." \cite{Choi_2011}
 
 - **Utility and choice** (Utility, preferences, indifference curves, budget constraints ...) [2]
     - NS: Ch 2
