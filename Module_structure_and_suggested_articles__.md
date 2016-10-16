@@ -5,7 +5,7 @@
     - Responses: \cite{Solnick_2000},\cite{Ruffle_2000},\cite{reinstein2014economics},\cite{list1998deadweight}
 
 #Module structure
-
+}}}}
 ##Textbook
 ##Problem sets
 ##Enrichment material (e.g., autor notes)
