@@ -1,4 +1,3 @@
-
 #From syllabus: Articles, media, and enrichment materials (please feel free to add)
 
 
