@@ -104,5 +104,3 @@ Public Economics: relevant podcasts, etc. [Link](https://www.authorea.com/users/
 
 [ripped from the headlines - shepherd uni](http://libguides.shepherd.edu/c.php?g=62855&p=403388)
 
-
-
