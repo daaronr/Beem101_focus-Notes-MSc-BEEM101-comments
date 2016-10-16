@@ -68,11 +68,58 @@
     - NS: Ch 9
     - T1:05b
 
-
 - ** General equilibrium and welfare (brief)** (interrelated markets and equilibrium prices, efficiency of perfect competition, failures)
 
 - Supplementary reading:
     - Slonim, Robert, Carmen Wang, and Ellen Garbarino. "The market for blood." The Journal of Economic Perspectives 28.2 (2014): 177-196.
+
+
+- **Market failures: Public goods** (attributes, equilibrium underprovision, remedies) [8]
+    - NS: Ch 16 -- public goods section only, possible supplements on voluntary provision of PG/charity
+    - T1:06
+
+- Supplementary reading:
+    - Ledyard, J.O., 1993.  Public Goods: A Survey of Experimental Research, Division of the Humanities and Social Sciences, California Institute of Technology.
+    - Chaudhuri, 2009. Sustaining cooperation in laboratory public goods experiments: a selective survey of the literature
+    - Varian, Hal R. "Buying, sharing and renting information goods." The Journal of Industrial Economics 48.4 (2000): 473-488.
+
+
+- **Monopolies, pricing and price discrimination** (single firm with market power; leads to another market failure) [9]
+    - NS: 11.2-11.4
+    - T1:07
+    - Essay: 'The Government May Want to Encourage Price Discrimination by Income' [Linked here](https://davidreinstein.wordpress.com/research-and-publications/)
+    - or [Let Them Eat OpportunityCards](https://davidreinstein.wordpress.com/2015/09/12/let-them-eat-opportunitycards-a-new-policy-tool-that-may-reduce-inequality/): a new policy tool that may reduce inequality
+
+
+- ** Imperfect competition (brief) ** (multiple firms with market power; esp Bertrand/Cournot models)
+
+
+-  **Uncertainty** (basic concepts, EU, risk aversion, investment choices) [10]
+    - NS: Ch 4 (not including 4a)
+    - T1:08
+
+- Supplementary reading:
+    - Holt, C., and S. Laury (2002), Risk Aversion and Incentive Effects, American Economic Review, v. 92 (5): 1644-1655.
+- For a popular audience:
+    - Reinstein (2016) 'Should you hedge your bets on a Brexit?' [LINK](https://davidreinstein.wordpress.com/2016/06/19/should-you-hedge-your-bets-on-a-brexit/)
+
+
+***
+
+
+- **Game theory (and lab experiments)** (*Strategic* interaction) [11]
+    - NS: Ch 5 (parts), plus supplement on experiments
+    - T1:09
+- Supplementary reading:
+    - Spence, M. (1973): “Job market signaling,” The Quarterly Journal of Economics, vol. 87, pp. 355-374.
+
+- **Behavioural economics** -- first lecture (limits to cognition, willpower, self-interest), second lecture (applications) [12]
+    - NS: Ch 17, plus supplements
+    - T1:10
+    - Further readings tbd
+
+- Supplementary reading:
+    - Amos Tversky & Daniel Kahneman, 1979. "Prospect Theory: An Analysis of Decision under Risk" (*Seminal*)
 
 
 
