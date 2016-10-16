@@ -1,11 +1,4 @@
-#Module structure and suggested articles
-
-###Cost of in-kind transfers, gift-giving, subsidies
-- e.g., The Deadweight Loss of Christmas: \cite{waldfogel1993deadweight}
-    - Responses: \cite{Solnick_2000},\cite{Ruffle_2000},\cite{reinstein2014economics},\cite{list1998deadweight}
-
-#Module structure
-}}}}
+}
 ##Textbook
 ##Problem sets
 ##Enrichment material (e.g., autor notes)
