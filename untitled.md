@@ -23,9 +23,35 @@
 
 - Developing research skills
 
+##Textbook
+##Problem sets
+##Enrichment material (e.g., autor notes)
+
+- Students found this interesting but did not want to be examined on it.
+- Most (?) would prefer enrichment in terms of applied work rather than mathematical rigour (unless it adds insight)
+
+##Mathematical level
+- most students think it is about right (?)
+
+#Student's interest, Career goals
+- Students are interested in working in both the public and private sector. (I forgot to ask about entrepreneurship or sectors of the economy.)
+    - I hope to learn more specifics.
+- Few students have a 'job waiting for them.'
+    - At least one works in regulation of utilities/antitrust
+
+#Points of confusion
+- Some students were confused by the Cobb-Douglas example, and the solved problem.
+    - --> This is covered in later problem sets, and I will go through an example in a later tutorial
+
+#Comments about the course in general
+
+
+---
+
+
 ##Articles of interest
 - None were mentioned in particular, but students expressed an interest in
     - applied articles relevant to business and policy
     - a focus on highlighting key results, insights, and methods *within* these articles
 
-*Please add suggested articles and topic here*
+
