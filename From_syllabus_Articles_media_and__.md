@@ -66,7 +66,7 @@
     - or [Let Them Eat OpportunityCards](https://davidreinstein.wordpress.com/2015/09/12/let-them-eat-opportunitycards-a-new-policy-tool-that-may-reduce-inequality/): a new policy tool that may reduce inequality
 
 
-- ** Imperfect competition (brief) ** (multiple firms with market power; esp Bertrand/Cournot models)
+- ** Imperfect competition (brief)** (multiple firms with market power; esp Bertrand/Cournot models)
 
 
 -  **Uncertainty** (basic concepts, EU, risk aversion, investment choices) [10]
@@ -79,14 +79,13 @@
     - Reinstein (2016) 'Should you hedge your bets on a Brexit?' [LINK](https://davidreinstein.wordpress.com/2016/06/19/should-you-hedge-your-bets-on-a-brexit/)
 
 
-***
-
 
 - **Game theory (and lab experiments)** (*Strategic* interaction) [11]
     - NS: Ch 5 (parts), plus supplement on experiments
     - T1:09
 - Supplementary reading:
     - Spence, M. (1973): “Job market signaling,” The Quarterly Journal of Economics, vol. 87, pp. 355-374.
+    - \cite{Goeree_2001}
 
 - **Behavioural economics** -- first lecture (limits to cognition, willpower, self-interest), second lecture (applications) [12]
     - NS: Ch 17, plus supplements
@@ -94,7 +93,7 @@
     - Further readings tbd
 
 - Supplementary reading:
-    - Amos Tversky & Daniel Kahneman, 1979. "Prospect Theory: An Analysis of Decision under Risk" (*Seminal*)
+    - Amos Tversky & Daniel Kahneman, 1979. "Prospect Theory: An Analysis of Decision under Risk" (*Seminal*) \cite{Kahneman_1979}
 
 
 
