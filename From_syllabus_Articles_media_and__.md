@@ -16,7 +16,7 @@
 - Supplementary reading:
     - The Deadweight Loss of Christmas: \cite{waldfogel1993deadweight}
     - Responses: \cite{Solnick_2000},\cite{Ruffle_2000},\cite{reinstein2014economics},\cite{list1998deadweight}
-    - D. Colander ‘‘Edgeworth’s Hedonimeter and the Quest to Measure Utility’’ Journal of Economic Perspectives, Spring 2007: 215–225.
+    - D. Colander ‘‘Edgeworth’s Hedonimeter and the Quest to Measure Utility’’ Journal of Economic Perspectives, Spring 2007: 215–225. \cite{Colander_2007}
 
 ***
 
