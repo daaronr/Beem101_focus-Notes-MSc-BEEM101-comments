@@ -18,8 +18,6 @@
     - Responses: \cite{Solnick_2000},\cite{Ruffle_2000},\cite{reinstein2014economics},\cite{list1998deadweight}
     - D. Colander ‘‘Edgeworth’s Hedonimeter and the Quest to Measure Utility’’ Journal of Economic Perspectives, Spring 2007: 215–225. \cite{Colander_2007}
 
-***
-
 -  **Demand curves** (individual and market, and properties of each) (\*) [3]
     - NS: Ch 3
     - T1:03
@@ -39,7 +37,7 @@
     - NS: Ch 8
     - T1:04b-05a
 - Supplementary reading:
-    - Gibbons, Robert. "Four formal (izable) theories of the firm?." Journal of Economic Behavior & Organization 58.2 (2005): 200-245.
+    - Gibbons, Robert. "Four formal (izable) theories of the firm?." Journal of Economic Behavior & Organization 58.2 (2005): 200-245. four\cite{Gibbons}\cite{Gibbons}
 
 - **Perfect competition in a single market** (Brief: Supply curve, entry/exit, CS and PS, tax incidence)  (\*) [7]
     - NS: Ch 9
@@ -56,9 +54,9 @@
     - T1:06
 
 - Supplementary reading:
-    - Ledyard, J.O., 1993.  Public Goods: A Survey of Experimental Research, Division of the Humanities and Social Sciences, California Institute of Technology.
-    - Chaudhuri, 2009. Sustaining cooperation in laboratory public goods experiments: a selective survey of the literature
-    - Varian, Hal R. "Buying, sharing and renting information goods." The Journal of Industrial Economics 48.4 (2000): 473-488.
+    - Ledyard, J.O., 1993.  Public Goods: A Survey of Experimental Research, Division of the Humanities and Social Sciences, California Institute of Technology. l
+    - Chaudhuri, 2009. Sustaining cooperation in laboratory public goods experiments: a selective survey of the literature \cite{Chaudhuri_2010}
+    - Varian, Hal R. "Buying, sharing and renting information goods." The Journal of Industrial Economics 48.4 (2000): 473-488. \cite{Varian_2003}
 
 
 - **Monopolies, pricing and price discrimination** (single firm with market power; leads to another market failure) [9]
