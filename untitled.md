@@ -1,4 +1,5 @@
-#Specific topics, focus, approach
+#Notes and comments from focus group seminar 
+##Specific topics, focus, approach
 
 - Highlight *relevance* of theory
     - Why are, e.g., demand curves, important
