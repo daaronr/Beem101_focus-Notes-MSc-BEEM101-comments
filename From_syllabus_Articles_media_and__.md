@@ -29,7 +29,7 @@
     - T1:04
      
 - Supplementary reading:
-    - Garber, Alan M., and Jonathan Skinner. "Is American health care uniquely inefficient?." The journal of economic perspectives 22.4 (2008): 27-50.
+    - Garber, Alan M., and Jonathan Skinner. "Is American health care uniquely inefficient?." The journal of economic perspectives 22.4 (2008): 27-50.b \cite{Garber_2008}
 
 - **Costs**  (Brief: types, choice of inputs, LR and SR) (\*) [5]
     - NS: Ch 7 (parts)
