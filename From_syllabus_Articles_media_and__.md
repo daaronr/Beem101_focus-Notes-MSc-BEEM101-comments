@@ -9,7 +9,8 @@
     - Credible worlds: the status of theoretical models in economics \cite{Sugden}
     - "Observing violations of transitivity by experimental methods." Observing violations of transitivity by experimental methods" \cite{Loomes_1991}
     - Choi, Syngjoo, et al. "Who is (more) rational?." \cite{Choi_2011} 
-    - - **Utility and choice** (Utility, preferences, indifference curves, budget constraints ...) [2]
+
+- **Utility and choice** (Utility, preferences, indifference curves, budget constraints ...) [2]
     - NS: Ch 2
     - T1:02 (may begin demand curves end of week 2)
 - Supplementary reading:
