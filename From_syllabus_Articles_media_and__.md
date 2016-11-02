@@ -53,11 +53,11 @@
     - T1:06
 
 - Supplementary reading:
-    - Ledyard, J.O., 1993.  Public Goods: A Survey of Experimental Research, Division of the Humanities and Social Sciences, California Institute of Technology. l
-    - Chaudhuri, 2009. Sustaining cooperation in laboratory public goods experiments: a selective survey of the literature \cite{Chaudhuri_2010}
+    – Ledyard, J.O., 1993. Public Goods: A Survey of Experimental Research, Division of the Humanities and Social Sciences, California Institute of Technology.
+    – Chaudhuri, 2009. Sustaining cooperation in laboratory public goods experiments: a selective survey of the literature
+    – Vesterlund, Lise. “Voluntary giving to public goods: moving beyond the linear VCM.” Handbook of Experimental Economics 2 (2012).
+    – Vesterlund, Lise. “Using Experimental Methods to Understand Why and How We Give to Charity.” The Handbook of Experimental Economics (2013).
     - Varian, Hal R. "Buying, sharing and renting information goods." The Journal of Industrial Economics 48.4 (2000): 473-488. \cite{Varian_2003}
-    - Vesterlund, Lise. "Voluntary giving to public goods: moving beyond the linear VCM." Handbook of Experimental Economics 2 (2012).
-    - Vesterlund, Lise. "Using Experimental Methods to Understand Why and How We Give to Charity." The Handbook of Experimental Economics (2013).
 
 
 - **Monopolies, pricing and price discrimination** (single firm with market power; leads to another market failure) [9]
