@@ -71,7 +71,6 @@
 
 - ** Imperfect competition (brief)** (multiple firms with market power; esp Bertrand/Cournot models)
 
-
 -  **Uncertainty** (basic concepts, EU, risk aversion, investment choices) [10]
     - NS: Ch 4 (not including 4a)
     - T1:08
@@ -80,8 +79,6 @@
     - Holt, C., and S. Laury (2002), Risk Aversion and Incentive Effects, American Economic Review, v. 92 (5): 1644-1655.
 - For a popular audience:
     - Reinstein (2016) 'Should you hedge your bets on a Brexit?' [LINK](https://davidreinstein.wordpress.com/2016/06/19/should-you-hedge-your-bets-on-a-brexit/)
-
-
 
 - **Game theory (and lab experiments)** (*Strategic* interaction) [11]
     - NS: Ch 5 (parts), plus supplement on experiments
