@@ -102,6 +102,7 @@
     - Benartzi, S. & Thaler, R.H., 2007. Heuristics and biases in retirement savings behavior. The journal of economic perspectives, pp.81–104.
     - Farber, H., 2008. Reference-dependent preferences and labor supply: The case of New York City taxi drivers. The American Economic Review. Available at: http://www.ingentaconnect.com/content/aea/aer/2008/00000098/00000003/art00021 [Accessed November 19, 2015].
     - (Behavioural insights team) EAST: Four simple ways to apply behavioural insight
+    - Kellner, Reinstein and Riener, 2016. [Conditional generosity and uncertain income: Field and lab evidence](https://dl.dropboxusercontent.com/u/91553/Giving_and_Probability.pdf) 
     - Also see Material linked at giveifyouwin.org
 
 
