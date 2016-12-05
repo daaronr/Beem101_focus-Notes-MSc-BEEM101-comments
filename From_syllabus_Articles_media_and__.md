@@ -95,9 +95,14 @@
     - T1:10
     - Further readings tbd
 
-- Supplementary reading:
-    - Amos Tversky & Daniel Kahneman, 1979. "Prospect Theory: An Analysis of Decision under Risk" (*Seminal*) \cite{Kahneman_1979}
-
+- Supplementary reading: theory
+    - Amos Tversky & Daniel Kahneman, 1979. "Prospect Theory: An Analysis of Decision under Risk" (*Seminal*)
+- Supplementary reading: applications and empirical work
+    - DellaVigna, Stefano. "Psychology and economics: Evidence from the field." Journal of Economic literature 47.2 (2009): 315-372.
+    - Benartzi, S. & Thaler, R.H., 2007. Heuristics and biases in retirement savings behavior. The journal of economic perspectives, pp.81–104.
+    - Farber, H., 2008. Reference-dependent preferences and labor supply: The case of New York City taxi drivers. The American Economic Review. Available at: http://www.ingentaconnect.com/content/aea/aer/2008/00000098/00000003/art00021 [Accessed November 19, 2015].
+    - (Behavioural insights team) EAST: Four simple ways to apply behavioural insight
+    - Also see Material linked at giveifyouwin.org
 
 
 #Work in progress (notes, possible links)
